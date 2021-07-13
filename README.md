@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Gradar-blueviolet)
+![](https://img.shields.io/badge/RPG-game-blueviolet)
 
-# Gradar
+# RPG-game
 
 > Gradar is an application built to help people find all the information they need on any github user,
 > By simply entering the username the app will retrieve the useful data from github api and display it in a nicely organized way.

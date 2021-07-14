@@ -13,7 +13,7 @@ const Unit = new Phaser.Class({
     this.living = true;
     this.menuItem = null;
   },
-  // we will use this to notify the menu item when the unit is dead
+  // we use this to notify the menu item when the unit is dead
   setMenuItem(item) {
     this.menuItem = item;
   },

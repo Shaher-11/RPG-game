@@ -2,26 +2,24 @@
 
 # RPG-game
 
-> Gradar is an application built to help people find all the information they need on any github user,
-> By simply entering the username the app will retrieve the useful data from github api and display it in a nicely organized way.
-
+> This is the JavaScript capstone project in microverse, the project is a  game built using the Phaser 3 Framework and javascript
 
 ![screenshot](./ss.JPG)
 
 
 ## Built With
 
-- HTML
 - JavaScript
-- Bootstrap
-- Github API
-- Netlify
+- Phaser 3
+- Webpack
 - Lots of love :heart:
 
+## Game Instructions
 
-## Live Demo
-
-[Gradar Live Demo](https://shaher-11.github.io/gradar/)
+-Click on play button to start the game.
+-Move your player using the arrow keys on your keyboard.
+-In the battle, use arrow keys to choose and space bar or left arrow to confirm your characters attack and try to defeat the enemies.
+-Enjoy the game and explore the options
 
 
 

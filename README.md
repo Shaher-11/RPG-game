@@ -6,7 +6,7 @@
 > By simply entering the username the app will retrieve the useful data from github api and display it in a nicely organized way.
 
 
-![screenshot](./app.png)
+![screenshot](./ss.JPG)
 
 
 ## Built With

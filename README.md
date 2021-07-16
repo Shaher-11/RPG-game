@@ -18,8 +18,11 @@
 ## Game Instructions
 
 -Click on play button to start the game.
+
 -Move your player using the arrow keys on your keyboard.
+
 -In the battle, use arrow keys to choose and space bar or left arrow to confirm your characters attack and try to defeat the enemies.
+
 -Enjoy the game and explore the options
 
 

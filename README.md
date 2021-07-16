@@ -42,6 +42,13 @@ Open the terminal
 
 Visit the port `127.0.0.1:8080`
 
+## Testing
+
+Run tests with the following command:
+
+`npm test`
+
+
 👤 **Shaher Shamroukh**
  
 [<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/Shaher-11)

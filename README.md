@@ -30,6 +30,17 @@ In the game there are two main characters: A warrior and A mage, they travel the
 In the battle scene, use keyboard arrows up, down, left, and space bar to attack the chosen enemy.
 Inside the battle, the scene player can see his characters' and enemies' health bars at all times. Also there are player's score available to see in the top bar in both of the scenes, when player want to quit, he can use the button 'Exit' in the top right of the bar, after clicking said button player is taken to High Score scene, where all top players and their scores are listed.
 
+## Getting started
+
+Open the terminal
+
+`git clone git@github.com:Shaher-11/RPG-game.git`
+
+`npm install`
+
+`npm run start`
+
+Visit the port `127.0.0.1:8080`
 
 👤 **Shaher Shamroukh**
  

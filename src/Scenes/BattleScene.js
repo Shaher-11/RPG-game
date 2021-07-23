@@ -15,7 +15,7 @@ const BattleScene = new Phaser.Class({
 
   preload() {
     // Add background image
-    this.load.image('battleBg', 'assets/battle_bg.jpg');
+    this.load.image('battleBg', '../assets/battle_bg.jpg');
   },
 
   initialize: function BattleScene() {

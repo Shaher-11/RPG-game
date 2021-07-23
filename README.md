@@ -53,7 +53,7 @@ Run tests with the following command:
 
 ## Live Demo
 
-[View Live](https://keen-lamarr-8a69c0.netlify.app/)
+[View Live](https://shaher-11.github.io/RPG-game/dist/)
 
 👤 **Shaher Shamroukh**
  

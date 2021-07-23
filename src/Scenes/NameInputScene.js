@@ -8,7 +8,7 @@ export default class NameInputScene extends Phaser.Scene {
   }
 
   preload() {
-    this.load.html('form', 'assets/form.html');
+    this.load.html('form', '../assets/form.html');
   }
 
   create() {

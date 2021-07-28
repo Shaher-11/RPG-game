@@ -2,8 +2,8 @@
 
 # RPG-game
 
-> This is the JavaScript capstone project in microverse, the project is a  game built using the Phaser 3 Framework and javascript
-
+> This a web based game built with JavaScript and phaser.js, the game conisits of number of features and option and it is a single player game,
+> 
 ![screenshot](./ss.JPG)
 
 

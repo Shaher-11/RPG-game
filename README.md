@@ -2,8 +2,8 @@
 
 # RPG-game
 
-> This a web based game built with JavaScript and phaser.js, the game conisits of number of features and option and it is a single player game,
-> Checkout the live link and have fun:smiley:
+> This is a web-based game built with JavaScript and phaser.js, the game consists of a number of features and options and it is a single-player game, Check out 
+> the live link and have fun:smiley:
 
 ![screenshot](./ss.JPG)
 
